@@ -17,6 +17,8 @@ publication: "In J.-H. Heinrichs, B. Beck, & O. Friedrich (Eds.), *Neuro-Prosthe
 
 title: "Culpability, control, and brain-computer interfaces"
 
-summary: "In order to tell whether someone is culpable for an action initiated by a brain-computer interface, it is _not_ necessary to work out whether the brain-computer interface correctly decoded their intention."  
+summary: "In order to tell whether someone is culpable for an action initiated by a brain-computer interface, it is _not_ necessary to work out whether the brain-computer interface correctly decoded their intention."
+url_pdf: "/uploads/bci.pdf"
 publishDate: 2023-04-01
+doi: "10.1007/978-3-662-68362-0_6"
 ---

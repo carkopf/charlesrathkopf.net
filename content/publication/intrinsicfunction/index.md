@@ -7,8 +7,9 @@ tags: []
 projects:
 summary: "If there are localized functions in the brain, they can only be articulated by abstracting away from functions associated with particular experimental tasks."
 url_project: ""
+url_pdf: "/uploads/intrinsicfunction.pdf"
 publication: ""
-date: []
+date: 2013-01-01T00:00:00.000Z
 title: "Localization and intrinsic function"
 publishDate: 2013-01-01T00:00:00.000Z
 url_poster: ""

@@ -8,10 +8,11 @@ author_notes:
 publication_short: Behavioral and Brain Sciences
 abstract: "We argue that Brette's arguments, or some variation on them, work only against the immodest codes imputed by neuroscientists to the signals they study; they do not tell against 'modest' codes, which may be learned by neurons themselves. Still, caution is warranted: modest neural codes likely lead to only modest explanatory gains."
 share: false
-summary: The concept of neural coding makes sense, if the codes can be learned by neurons. 
+summary: The concept of neural coding makes sense, if the codes can be learned by neurons.
 url_project: ""
+url_pdf: "/uploads/modestcodes.pdf"
 publication: ""
-date: []
+date: 2019-11-01T00:00:00.000Z
 title: "Modest and immodest neural codes"
 publishDate: 2019-11-01T00:00:00.000Z
 url_poster: ""

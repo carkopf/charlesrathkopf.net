@@ -34,6 +34,8 @@ highlight_name: true
 title: Charles Rathkopf
 email: charles.rathkopf@gmail.com
 ---
-I'm a tenured research associate in Philosophy and Neuroscience at the Jülich Research Center, in Jülich, Germany. I am also a lecturer in philosophy at the University of Bonn. Most of what I work on has to do with neuroscience and artificial intelligence, how these two fields are related to each other, and how scientific work in these fields relates to older philosophical ideas.
+I'm a tenured research associate in Philosophy and Neuroscience at the Jülich Research Center in Jülich, Germany, and a lecturer in philosophy at the University of Bonn. My research focuses on the cognitive capacities of large language models, the interpretation of activation patterns in both artificial and biological neural networks, and the philosophical implications of deep learning for theories of mind.
+
+Current questions driving my work: How should we evaluate LLM cognition without anthropocentric bias? What is the relationship between mental content and high-dimensional activation data? Does deep learning challenge functionalist assumptions about multiple realizability? And increasingly, under what conditions might AI systems engage in deceptive behavior?
 
 My group in Jülich runs a series of talks about the philosophy of technology. [Check it out.](https://philtechtalks.netlify.app) 

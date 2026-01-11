@@ -9,10 +9,11 @@ publication_short: Behavioral and Brain Sciences
 abstract: Cecelia Heyes suggests that selective social learning comes in two varieties. One is common, domain general, and associative. The other is rare, domain specific, and metacognitive. We argue that this binary distinction cannot quite do the work she assigns it, and sketch a framework in which additional strategies for selective social learning might be accommodated.
 projects:
 share: false
-summary: If meta-cognition evolved, there is probably something like semi-meta-cognition. 
+summary: If meta-cognition evolved, there is probably something like semi-meta-cognition.
 url_project: ""
+url_pdf: "/uploads/mendingwall.pdf"
 publication: ""
-date: []
+date: 2019-09-01T00:00:00.000Z
 title: "Mending wall"
 publishDate: 2019-09-01T00:00:00.000Z
 url_poster: ""
