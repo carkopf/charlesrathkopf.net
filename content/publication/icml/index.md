@@ -26,8 +26,13 @@ title: "Anthropocentric bias and the possibility of artificial cognition"
 
 summary: "When we use methods from experimental psychology to test the capacities of LLMs, we are prone to transfer assumptions about the human case to the LLM case, and to do so without justification. By drawing attention to these assumptions we can make more informed comparisons."  
 
-url_pdf: [https://arxiv.org/abs/2407.03859]
+url_pdf: "/uploads/icml.pdf"
 
 publishDate: 2024-07-10
 
+links:
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2407.03859"
+  - name: "OpenReview"
+    url: "https://openreview.net/forum?id=wrZ6mLelzu"
 ---

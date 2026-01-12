@@ -7,6 +7,7 @@ tags: []
 projects:
 summary: "Argument maps represent some kinds of arguments better than others."
 url_project: ""
+url_pdf: "/uploads/argument_mapping.pdf"
 publication: ""
 date: 2022-05-01T00:00:00.000Z
 title: "Some benefits and limitations of argument map representation"

@@ -11,9 +11,9 @@ projects:
 summary: "A popular article arguing that, when evaluating LLMs, anthropocentrism is just as misleading as anthropomorphism. "
 url_project: ""
 publication: ""
-date: 2022-05-01T00:00:00.000Z
+date: 2024-07-26T00:00:00.000Z
 title: "Why its important to remember that AI isn't human"
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2024-07-26T00:00:00.000Z
 url_poster: ""
 doi: ""
 links:

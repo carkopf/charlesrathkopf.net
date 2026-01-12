@@ -24,7 +24,7 @@ tags: []
 projects:
   - The neuroscience of content
 # slides: example
-url_pdf: ""
+url_pdf: "/uploads/readminds.pdf"
 publication_types:
   - "2"
 image:
@@ -38,10 +38,10 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2022-05-01T00:00:00.000Z
+date: 2022-02-23T00:00:00.000Z
 # url_slides: ""
 title: "Can we read minds by imaging brains?"
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2022-02-23T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: "10.1080/09515089.2022.2041590"
