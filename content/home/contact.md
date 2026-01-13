@@ -18,8 +18,8 @@ content:
   # Contact details (edit or remove options as required)
   email: c {dot} rathkopf {at} fz-juelich.de
   contact_links:
-    - icon: square-bluesky
-      icon_pack: fab
+    - icon: comments
+      icon_pack: fas
       name: DM Me
       link: 'https://bsky.app/profile/your-handle.bsky.social'
 
