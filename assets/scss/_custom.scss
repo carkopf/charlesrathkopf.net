@@ -1,0 +1,39 @@
+/* Custom CSS for avatar size */
+.avatar {
+  width: 240px !important;
+  height: 240px !important;
+}
+
+/* Adjust avatar on smaller screens */
+@media (max-width: 768px) {
+  .avatar {
+    width: 180px !important;
+    height: 180px !important;
+  }
+}
+
+/* Hide Wowchemy powered by line */
+.powered-by {
+  display: none !important;
+}
+
+/* Hide author profile on individual talk/event pages */
+.article-container .author-card {
+  display: none !important;
+}
+
+/* Darker, more professional blue for links and accents */
+a:not(.btn) {
+  color: #2c5282 !important; /* Darker blue instead of bright blue */
+}
+
+a:not(.btn):hover {
+  color: #1a365d !important; /* Even darker on hover */
+}
+
+/* Apply to navigation and other accents */
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #2c5282 !important;
+}

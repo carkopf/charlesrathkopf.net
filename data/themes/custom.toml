@@ -1,0 +1,24 @@
+# Custom theme based on minimal with darker blue
+name = "custom"
+
+[light]
+  # Primary
+  primary = "#2c5282"
+
+  # Menu
+  menu_primary = "#2c5282"
+  menu_text = "#34495e"
+  menu_text_active = "#2c5282"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+  # Background
+  background = "rgb(255, 255, 255)"
+  dark_background = "rgb(40, 42, 54)"
+
+  # Link
+  link = "#2c5282"
+  link_hover = "#1a365d"
