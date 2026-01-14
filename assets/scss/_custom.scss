@@ -38,6 +38,15 @@ a:not(.btn):hover {
   color: #2c5282 !important;
 }
 
+/* Hide site title from navigation bar */
+.navbar-brand {
+  font-size: 0 !important;
+}
+
+.navbar-brand img {
+  font-size: initial !important;
+}
+
 /* Custom Bluesky icon - replace comments icon with Bluesky butterfly */
 .fa-comments::before {
   content: "" !important;

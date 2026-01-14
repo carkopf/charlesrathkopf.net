@@ -30,7 +30,7 @@ organizations:
   - name: University of Bonn
     url: https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/philosophy-bakf
 superuser: true
-highlight_name: true
+highlight_name: false
 title: Charles Rathkopf
 email: c.rathkopf@fz-juelich.de
 ---
