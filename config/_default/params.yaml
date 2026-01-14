@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Jülich Research Center'
+    description: 'Charles Rathkopf - Berlin-based philosopher specializing in AI deception, artificial intelligence, LLMs, and neuroscience. Research on AI hallucination, generative models, and philosophy of mind. Tenured researcher at Jülich Research Center.'
+    twitter: ''
   analytics:
     google_analytics: 'UA-107764966-1'
     baidu_tongji: ''
