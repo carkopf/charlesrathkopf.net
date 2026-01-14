@@ -47,6 +47,20 @@ a:not(.btn):hover {
   font-size: initial !important;
 }
 
+/* Hide publication type and tags */
+.pub-list-item .article-metadata .article-metadata-light,
+.article-metadata .pub-type,
+.article-tags,
+.pub-icon {
+  display: none !important;
+}
+
+/* Hide publication type in individual publication pages */
+.article-header .article-metadata .middot-divider:first-of-type,
+.article-header .article-metadata a[href*="publication-type"] {
+  display: none !important;
+}
+
 /* Custom Bluesky icon - replace comments icon with Bluesky butterfly */
 .fa-comments::before {
   content: "" !important;

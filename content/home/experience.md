@@ -5,7 +5,7 @@ headless: true
 weight: 40
 title: Experience
 subtitle: null
-active: true
+active: false
 date_format: Jan 2006
 experience:
   - title: Permanent Research Associate
