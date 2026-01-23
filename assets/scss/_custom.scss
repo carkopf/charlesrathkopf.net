@@ -38,6 +38,11 @@ a:not(.btn):hover {
   color: #2c5282 !important;
 }
 
+/* Increase navigation menu font size */
+.navbar-nav .nav-link {
+  font-size: 1.1rem !important;
+}
+
 /* Hide site title from navigation bar */
 .navbar-brand {
   font-size: 0 !important;
