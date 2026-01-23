@@ -16,12 +16,12 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: charles {dot} rathkopf {at} gmail.com
+  email: c {dot} rathkopf {at} fz-juelich.de
   contact_links:
-    - icon: twitter
-      icon_pack: fab
+    - icon: comments
+      icon_pack: fas
       name: DM Me
-      link: 'https://twitter.com/CRathkopf'
+      link: 'https://bsky.app/profile/your-handle.bsky.social'
 
 
 design:

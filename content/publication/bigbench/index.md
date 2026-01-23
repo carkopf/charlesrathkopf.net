@@ -12,7 +12,15 @@ abstract: "Language models demonstrate both quantitative improvement and new qua
 
 publishDate: 2023-01-01T00:00:00.000Z
 
+url_pdf: "/uploads/bigbench.pdf"
+
 profile: false
 
 share: false
+
+links:
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2206.04615"
+  - name: "OpenReview"
+    url: "https://openreview.net/forum?id=uyTL5Bvosj"
 ---

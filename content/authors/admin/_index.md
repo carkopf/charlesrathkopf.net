@@ -6,9 +6,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/CRathkopf
+  - icon: comments
+    icon_pack: fas
+    link: https://bsky.app/profile/your-handle.bsky.social
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=3AJuoLwAAAAJ&hl=en&oi=ao
@@ -30,10 +30,10 @@ organizations:
   - name: University of Bonn
     url: https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/philosophy-bakf
 superuser: true
-highlight_name: true
+highlight_name: false
 title: Charles Rathkopf
-email: charles.rathkopf@gmail.com
+email: c.rathkopf@fz-juelich.de
 ---
-I'm a tenured research associate in Philosophy and Neuroscience at the Jülich Research Center, in Jülich, Germany. I am also a lecturer in philosophy at the University of Bonn. Most of what I work on has to do with neuroscience and artificial intelligence, how these two fields are related to each other, and how scientific work in these fields relates to older philosophical ideas.
+I'm a Berlin-based tenured research associate in Philosophy and Neuroscience at the Jülich Research Center. I am also a lecturer in philosophy at the University of Bonn. Most of what I work on has to do with neuroscience and artificial intelligence, how these two fields are related to each other, and how scientific work in these fields relates to older philosophical ideas. I was an NSF postdoctoral scholar working with [Peter Godfrey-Smith](https://petergodfreysmith.com) at CUNY.
 
 My group in Jülich runs a series of talks about the philosophy of technology. [Check it out.](https://philtechtalks.netlify.app) 

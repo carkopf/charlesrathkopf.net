@@ -6,7 +6,7 @@ abstract: A fascinating research program in neurophysiology attempts to quantify
 tags: []
 projects:
   - The neuroscience of content
-url_pdf: ""
+url_pdf: "/uploads/informationobject.pdf"
 publication_types:
   - "2"
 image:
@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2022-05-01T00:00:00.000Z
+date: 2017-01-01T00:00:00.000Z
 title: "Neural information and the problem of objectivity"
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""

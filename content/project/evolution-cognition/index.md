@@ -1,7 +1,7 @@
 ---
 title: The evolution of cognition
 date: 2022-10-07T17:54:46.497Z
-draft: false
+draft: true
 featured: false
 share: false
 

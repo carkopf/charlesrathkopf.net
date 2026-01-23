@@ -7,10 +7,11 @@ tags: []
 projects:
 summary: "In the brain, semantic information is intertwined with Shannon information."
 url_project: ""
+url_pdf: "/uploads/braininformation.pdf"
 publication: ""
-date: 2022-05-01T00:00:00.000Z
+date: 2020-01-01T00:00:00.000Z
 title: "What kind of information is brain information?"
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: "https://doi.org/10.1007/s11245-017-9512-6"
