@@ -34,6 +34,4 @@ highlight_name: false
 title: Charles Rathkopf
 email: c.rathkopf@fz-juelich.de
 ---
-I'm a Berlin-based tenured research associate in Philosophy and Neuroscience at the Jülich Research Center. I am also a lecturer in philosophy at the University of Bonn. Most of what I work on has to do with neuroscience and artificial intelligence, how these two fields are related to each other, and how scientific work in these fields relates to older philosophical ideas. I was an NSF postdoctoral scholar working with [Peter Godfrey-Smith](https://petergodfreysmith.com) at CUNY.
-
-My group in Jülich runs a series of talks about the philosophy of technology. [Check it out.](https://philtechtalks.netlify.app) 
+I'm a philosopher at the Jülich Research Center and the University of Bonn, working at the intersection of AI, neuroscience, and philosophy of mind. My research focuses on AI cognition, mechanistic interpretability, and deception in artificial intelligence systems. I'm based in Berlin and always interested in connecting with people working in AI, neuroscience, or philosophy. My group in Jülich runs a philosophy of technology speaker series—[check it out](https://philtechtalks.netlify.app). 
