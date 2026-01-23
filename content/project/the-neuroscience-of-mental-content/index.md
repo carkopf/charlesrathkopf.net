@@ -1,5 +1,5 @@
 ---
-title: Mental Content and Activation Data
+title: Mental Content and Brain Data
 date: 2022-10-07T19:03:03.730Z
 draft: false
 featured: true
