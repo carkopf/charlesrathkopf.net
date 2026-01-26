@@ -4,7 +4,7 @@ title: Anthropocentric bias in language model evaluation
 event: Nancy-Tübingen joint AI ethics seminar
 #event_url: https://example.org
 
-location: Online
+location: Online Seminar Tübingen-Nancy
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
