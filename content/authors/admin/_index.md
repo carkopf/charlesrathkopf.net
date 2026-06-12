@@ -6,9 +6,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: comments
-    icon_pack: fas
-    link: https://bsky.app/profile/your-handle.bsky.social
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://x.com/CRathkopf
+    label: "X (@CRathkopf)"
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=3AJuoLwAAAAJ&hl=en&oi=ao
