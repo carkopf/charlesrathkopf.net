@@ -18,7 +18,7 @@ publishDate: "2026-01-13T00:00:00Z"
 publication: "Under review"
 publication_short: ""
 
-abstract: "Generative AI increasingly supports scientific inference, from protein structure prediction to weather forecasting. Yet its distinctive failure mode, *hallucination*, raises epistemic alarm bells. I argue that this failure mode can be addressed by shifting from data-centric to phenomenon-centric assessment. Through case studies of AlphaFold and GenCast, I show how scientific workflows discipline generative models through theory-guided training and confidence-based error screening. These strategies convert hallucination from an unmanageable epistemic threat into bounded risk. When embedded in such workflows, generative models support reliable inference despite opacity, provided they operate in theoretically mature domains."
+abstract: "Generative AI is increasingly used in science, but is unavoidably prone to hallucination. I develop a reliabilist account of how generative AI nevertheless gives rise to new scientific knowledge. I analyze hallucinations as non-strategic misrepresentations of the target phenomenon, introduced by a model's generative activity, rather than inherited from training data. Through case studies of AlphaFold and SEEDS, I show how scientific workflows draw on pre-existing knowledge of target phenomena to filter or qualify hallucinatory outputs, thereby preventing their erroneous content from propagating into downstream inference. Finally, I show that workflows are units of epistemic evaluation in their own right."
 
 # Summary. An optional shortened abstract.
 summary: ""
