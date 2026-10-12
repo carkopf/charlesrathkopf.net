@@ -1,6 +1,5 @@
 ---
 avatar_filename: avatar.jpeg
-bio: "I am interested in how mental properties emerge from physical stuff. "
 
 social:
   - icon: envelope
@@ -35,4 +34,4 @@ highlight_name: false
 title: Charles Rathkopf
 email: c.rathkopf@fz-juelich.de
 ---
-I'm a philosopher at the Jülich Research Center and the University of Bonn, working at the intersection of AI, neuroscience, and philosophy of mind. My research focuses on AI cognition, mechanistic interpretability, and deception in artificial intelligence systems. I'm based in Berlin and always interested in connecting with people working in AI, neuroscience, or philosophy. My group in Jülich runs a philosophy of technology speaker series—[check it out](https://philtechtalks.netlify.app). 
+I'm a philosopher at the Jülich Research Center and the University of Bonn, working on the philosophy of science and the ethics of AI and neuroscience. My research focuses on AI cognition, mechanistic interpretability, and deception in artificial intelligence systems. I'm based in Berlin and always interested in connecting with people working in AI, neuroscience, or philosophy. My group in Jülich runs a philosophy of technology speaker series—[check it out](https://philtechtalks.netlify.app).

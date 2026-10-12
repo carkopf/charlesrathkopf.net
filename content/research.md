@@ -12,7 +12,7 @@ header:
   image: ''
 ---
 
-I am a philosopher working at the intersection of artificial intelligence, neuroscience, and the philosophy of mind. The aim of my research program is to make progress on philosophical problems that crop up when trying to do machine psychology. These include foundational questions about whether a computer program can have psychological properties at all, as well as more applied questions such as whether large language models are capable of deception. I am also interested in the methodology of AI evaluation: how anthropomorphism and anthropocentrism bias our judgments, and how our methods can mistake mere performance for competence, or miss a competence our tasks fail to elicit.
+I am a philosopher of science working on artificial intelligence and neuroscience. The aim of my research program is to make progress on philosophical problems that crop up when trying to do machine psychology. These include foundational questions about whether a computer program can have psychological properties at all, as well as more applied questions such as whether large language models are capable of deception. I am also interested in the methodology of AI evaluation: how anthropomorphism and anthropocentrism bias our judgments, and how our methods can mistake mere performance for competence, or miss a competence our tasks fail to elicit.
 
 My current work pursues these questions along four lines.
 
@@ -22,7 +22,7 @@ Can mental content be decoded from neural data, whether from a biological brain 
 
 ## Reliability, error, and hallucination
 
-Artificial systems fail in ways that do not map cleanly onto human error, and this should change how we evaluate them. Trustworthiness, the standard we apply to human informants, presupposes good faith and shared norms that do not carry over to machines. I have argued that reliability is the more apt standard for scientific AI, precisely because it is indifferent to whether a system resembles humans. Recently, I examined how it applies to generative models prone to "hallucination." More generally, I am interested in the extent to which emerging validation techniques can provide evidence of model reliability.
+Artificial systems fail in ways that do not map cleanly onto human error, and this should change how we evaluate them. Trustworthiness, the standard we apply to human informants, presupposes good faith and shared norms that do not carry over to machines. I have argued that reliability is the more apt standard for scientific AI, precisely because it is indifferent to whether a system resembles humans. My recent work examines how generative models can contribute to scientific knowledge despite their tendency to hallucinate. More generally, I am interested in the extent to which emerging validation techniques can provide evidence of model reliability.
 
 ## AI deception and safety
 
